@@ -12135,6 +12135,10 @@ figcaption {
         font-size: 34px;
     }
 }
+.section-title {
+  text-align: center;
+  margin: 0 auto;
+}
 
 /*---------------------------
     Banner Area Styles 

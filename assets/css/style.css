@@ -12135,10 +12135,6 @@ figcaption {
         font-size: 34px;
     }
 }
-.section-title {
-  text-align: center;
-  margin: 0 auto;
-}
 
 /*---------------------------
     Banner Area Styles 
@@ -17019,6 +17015,7 @@ div#featured-project-carousel {
 .footer-area .logo a img {
     max-height: 100px;
 }
+
 
 /*-----------------------
     Footer Style Two  
